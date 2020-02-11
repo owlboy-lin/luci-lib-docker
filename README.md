@@ -1,3 +1,5 @@
+转载：https://github.com/lisaac/luci-lib-docker.git
+
 # Docker Engine API for LuCI
 
 This is a simple Docker Engine API for LuCI, Now we can operating Docker in LuCI by this lib.
